@@ -17,10 +17,7 @@
 #include <algorithm>
 #include <ros/ros.h>
 #include <ros/time.h>
-#include <opencv/cv.h>
-#include <opencv/highgui.h>
-#include <opencv2/core/core.hpp>
-#include <opencv2/highgui/highgui.hpp>
+#include <opencv2/opencv.hpp>
 #include <image_transport/image_transport.h>
 #include <image_transport/transport_hints.h>
 #include <cv_bridge/cv_bridge.h>
